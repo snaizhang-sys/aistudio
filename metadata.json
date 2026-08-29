@@ -1,0 +1,6 @@
+{
+  "name": "BootstrapStudio",
+  "description": "Design with Absolute Control - Enterprise web development, cloud infrastructure, strategic analytics, and digital innovation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
